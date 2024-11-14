@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "img": "https://example.com/img/gatto.jpg",
+        "img": "https://m.media-amazon.com/images/I/71G5JToJARL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Guinzaglio Elegante per Gatti",
         "prezzo": "15€",
         "animale": "gatto",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "img": "https://example.com/img/pesce.jpg",
+        "img": "https://m.media-amazon.com/images/I/71og1zRcpzL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Acquario Marina",
         "prezzo": "120€",
         "animale": "pesce",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "img": "https://example.com/img/cavallo.jpg",
+        "img": "https://m.media-amazon.com/images/I/51uG+OKuqPL._AC_UL640_FMwebp_QL65_.jpg",
         "name": "Cura del Cuoio Cavallo",
         "prezzo": "30€",
         "animale": "cavallo",
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "img": "https://example.com/img/uccello.jpg",
+        "img": "https://m.media-amazon.com/images/I/81FYgE37rvL._AC_UL640_FMwebp_QL65_.jpg",
         "name": "Mangiatoia Colorata per Uccelli",
         "prezzo": "8€",
         "animale": "uccello",
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "img": "https://example.com/img/cane2.jpg",
+        "img": "https://m.media-amazon.com/images/I/71UVgdOvzoL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Letto Ortopedico per Cani",
         "prezzo": "70€",
         "animale": "cane",
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "img": "https://example.com/img/gatto2.jpg",
+        "img": "https://m.media-amazon.com/images/I/41mVKY3OrQL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioiello Collare per Gatti",
         "prezzo": "25€",
         "animale": "gatto",
@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "img": "https://example.com/img/pesce2.jpg",
+        "img": "https://m.media-amazon.com/images/I/818h0Y1NdFL._AC_UL640_FMwebp_QL65_.jpg",
         "name": "Pianta Artificiale per Acquari",
         "prezzo": "12€",
         "animale": "pesce",
@@ -105,7 +105,7 @@
     },
     {
         "id": 9,
-        "img": "https://example.com/img/cavallo2.jpg",
+        "img": "https://m.media-amazon.com/images/I/71eyNHgy5DL._AC_UL640_FMwebp_QL65_.jpg",
         "name": "Spazzola Morbida per Cavalli",
         "prezzo": "20€",
         "animale": "cavallo",
@@ -118,7 +118,7 @@
     },
     {
         "id": 10,
-        "img": "https://example.com/img/uccello2.jpg",
+        "img": "https://m.media-amazon.com/images/I/61J1o9gZO3L._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Altalena per Uccelli",
         "prezzo": "6€",
         "animale": "uccello",

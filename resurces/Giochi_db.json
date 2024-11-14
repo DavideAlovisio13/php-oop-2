@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "https://m.media-amazon.com/images/I/814bNOLhLHL._AC_UF894,1000_QL80_.jpg",
+        "img": "https://m.media-amazon.com/images/I/81qFBkq4DgL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Cane 1",
         "prezzo": "7€",
         "valutazione": "4.7",
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "img": "https://example.com/immagine-gatto.jpg",
+        "img": "https://m.media-amazon.com/images/I/61mBwifwxBL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Gatto 1",
         "prezzo": "7€",
         "valutazione": "4.7",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "img": "https://example.com/immagine-uccello.jpg",
+        "img": "https://m.media-amazon.com/images/I/71n1fHjOoIL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Uccello 1",
         "prezzo": "8€",
         "valutazione": "4.5",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "img": "https://example.com/immagine-cavallo.jpg",
+        "img": "https://m.media-amazon.com/images/I/51JQK4lqFjL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Cavallo 1",
         "prezzo": "12€",
         "valutazione": "4.8",
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "img": "https://example.com/immagine-pesce.jpg",
+        "img": "https://m.media-amazon.com/images/I/61IiiQdbvaL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Pesce 1",
         "prezzo": "5€",
         "valutazione": "4.3",
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "img": "https://example.com/immagine-cane2.jpg",
+        "img": "https://m.media-amazon.com/images/I/6122Z2oNOyL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Cane 2",
         "prezzo": "9€",
         "valutazione": "4.6",
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "img": "https://example.com/immagine-gatto2.jpg",
+        "img": "https://m.media-amazon.com/images/I/615sd06i4iL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Gatto 2",
         "prezzo": "6€",
         "valutazione": "4.4",
@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "img": "https://example.com/immagine-uccello2.jpg",
+        "img": "https://m.media-amazon.com/images/I/71SQiULFzIL._AC_UL480_FMwebp_QL65_.jpg",
         "name": "Gioco Uccello 2",
         "prezzo": "7€",
         "valutazione": "4.6",
@@ -105,7 +105,7 @@
     },
     {
         "id": 9,
-        "img": "https://example.com/immagine-cavallo2.jpg",
+        "img": "https://m.media-amazon.com/images/I/51U3pMdO2ML._AC_UL640_FMwebp_QL65_.jpg",
         "name": "Gioco Cavallo 2",
         "prezzo": "11€",
         "valutazione": "4.7",
@@ -118,7 +118,7 @@
     },
     {
         "id": 10,
-        "img": "https://example.com/immagine-pesce2.jpg",
+        "img": "https://m.media-amazon.com/images/I/716PLygqoHL._AC_UL640_FMwebp_QL65_.jpg",
         "name": "Gioco Pesce 2",
         "prezzo": "4€",
         "valutazione": "4.2",
