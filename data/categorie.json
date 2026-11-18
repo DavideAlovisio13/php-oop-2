@@ -1,0 +1,10 @@
+{
+    "animali": {
+        "cane": { "label": "Cane", "icon": "fa-dog" },
+        "gatto": { "label": "Gatto", "icon": "fa-cat" },
+        "pesce": { "label": "Pesce", "icon": "fa-fish" },
+        "uccello": { "label": "Uccello", "icon": "fa-dove" },
+        "cavallo": { "label": "Cavallo", "icon": "fa-horse" }
+    },
+    "accessori": ["cucce", "guinzagli e collari", "toelettatura", "ciotole e mangiatoie", "acquari", "gabbie e voliere"]
+}

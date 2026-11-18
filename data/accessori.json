@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nome": "Cuccia Comfort", "animale": "cane", "prezzo": 49.90, "valutazione": 4.2, "tipo": "cucce", "descrizione": "Cuccia imbottita con fondo antiscivolo e fodera sfoderabile, lavabile in lavatrice." },
+    { "id": 2, "nome": "Guinzaglio Elegante", "animale": "gatto", "prezzo": 14.90, "valutazione": 4.5, "tipo": "guinzagli e collari", "descrizione": "Pettorina regolabile con guinzaglio leggero, pensata per le prime uscite all'aperto." },
+    { "id": 3, "nome": "Acquario Marina 60 L", "animale": "pesce", "prezzo": 119.00, "valutazione": 4.8, "tipo": "acquari", "descrizione": "Vasca in vetro con filtro interno silenzioso e illuminazione LED a basso consumo." },
+    { "id": 4, "nome": "Kit Cura del Cuoio", "animale": "cavallo", "prezzo": 29.50, "valutazione": 4.6, "tipo": "toelettatura", "descrizione": "Detergente e balsamo nutriente per selle, briglie e finimenti in cuoio." },
+    { "id": 5, "nome": "Mangiatoia Colorata", "animale": "uccello", "prezzo": 7.90, "valutazione": 4.3, "tipo": "ciotole e mangiatoie", "descrizione": "Mangiatoia da agganciare alla gabbia, con beccucci antispreco." },
+    { "id": 6, "nome": "Letto Ortopedico", "animale": "cane", "prezzo": 69.00, "valutazione": 4.9, "tipo": "cucce", "descrizione": "Materasso in memory foam che sostiene le articolazioni dei cani anziani." },
+    { "id": 7, "nome": "Collare Gioiello", "animale": "gatto", "prezzo": 24.90, "valutazione": 4.6, "tipo": "guinzagli e collari", "descrizione": "Collare con chiusura di sicurezza a sgancio rapido e campanellino removibile." },
+    { "id": 8, "nome": "Piante Artificiali", "animale": "pesce", "prezzo": 11.90, "valutazione": 4.4, "tipo": "acquari", "descrizione": "Set di piante in materiale atossico che non altera i valori dell'acqua." },
+    { "id": 9, "nome": "Spazzola Morbida", "animale": "cavallo", "prezzo": 19.90, "valutazione": 4.7, "tipo": "toelettatura", "descrizione": "Setole naturali per la pulizia quotidiana del mantello e per lucidarlo." },
+    { "id": 10, "nome": "Voliera con Altalena", "animale": "uccello", "prezzo": 54.00, "valutazione": 4.2, "tipo": "gabbie e voliere", "descrizione": "Voliera da interno con altalena, posatoi in legno e vassoio estraibile." }
+]

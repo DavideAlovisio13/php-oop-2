@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nome": "Bocconcini al Pollo", "animale": "cane", "prezzo": 9.90, "valutazione": 4.6, "tipologia": "umido", "peso": "12 × 400 g", "descrizione": "Bocconcini in salsa con pollo e verdure, senza coloranti aggiunti." },
+    { "id": 2, "nome": "Crocchette al Salmone", "animale": "gatto", "prezzo": 7.90, "valutazione": 4.4, "tipologia": "secco", "peso": "1,5 kg", "descrizione": "Crocchette per gatti adulti con salmone come prima fonte proteica." },
+    { "id": 3, "nome": "Scaglie Tropicali", "animale": "pesce", "prezzo": 4.90, "valutazione": 4.5, "tipologia": "scaglie", "peso": "100 g", "descrizione": "Mangime completo in scaglie per pesci tropicali d'acqua dolce." },
+    { "id": 4, "nome": "Mix di Semi", "animale": "uccello", "prezzo": 5.90, "valutazione": 4.3, "tipologia": "semi", "peso": "1 kg", "descrizione": "Miscela di miglio, scagliola e semi oleosi per canarini e piccoli esotici." },
+    { "id": 5, "nome": "Mangime in Pellet", "animale": "cavallo", "prezzo": 15.50, "valutazione": 4.7, "tipologia": "pellet", "peso": "20 kg", "descrizione": "Pellet bilanciato per cavalli da lavoro leggero, ricco di fibre." },
+    { "id": 6, "nome": "Crocchette Adult Maxi", "animale": "cane", "prezzo": 39.90, "valutazione": 4.8, "tipologia": "secco", "peso": "12 kg", "descrizione": "Crocchette per cani di taglia grande, con glucosamina per le articolazioni." },
+    { "id": 7, "nome": "Patè al Tonno", "animale": "gatto", "prezzo": 6.90, "valutazione": 4.2, "tipologia": "umido", "peso": "6 × 85 g", "descrizione": "Patè morbido in vaschette monodose, ideale anche per gatti anziani." },
+    { "id": 8, "nome": "Granuli per Pesci Rossi", "animale": "pesce", "prezzo": 3.90, "valutazione": 4.1, "tipologia": "granuli", "peso": "200 g", "descrizione": "Granuli galleggianti che non intorbidiscono l'acqua della vasca." },
+    { "id": 9, "nome": "Pastoncino all'Uovo", "animale": "uccello", "prezzo": 6.50, "valutazione": 4.6, "tipologia": "pastoncino", "peso": "800 g", "descrizione": "Integratore morbido all'uovo per il periodo della muta e della cova." },
+    { "id": 10, "nome": "Fiocchi di Cereali", "animale": "cavallo", "prezzo": 18.90, "valutazione": 4.5, "tipologia": "fiocchi", "peso": "15 kg", "descrizione": "Fiocchi di orzo, avena e mais schiacciati a vapore, facili da digerire." }
+]

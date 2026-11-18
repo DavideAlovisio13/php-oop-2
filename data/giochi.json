@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nome": "Frisbee Galleggiante", "animale": "cane", "prezzo": 8.90, "valutazione": 4.7, "tipologia": "da lancio", "descrizione": "Disco in gomma morbida che galleggia in acqua e non ferisce le gengive." },
+    { "id": 2, "nome": "Bacchetta con Piume", "animale": "gatto", "prezzo": 5.90, "valutazione": 4.5, "tipologia": "interattivo", "descrizione": "Canna flessibile con piume e campanellino per giocare insieme al gatto." },
+    { "id": 3, "nome": "Specchio con Campanella", "animale": "uccello", "prezzo": 4.50, "valutazione": 4.0, "tipologia": "da gabbia", "descrizione": "Specchietto da appendere con campanella, per pappagallini e canarini." },
+    { "id": 4, "nome": "Palla da Paddock", "animale": "cavallo", "prezzo": 34.00, "valutazione": 4.4, "tipologia": "da esterno", "descrizione": "Pallone resistente da spingere con il muso, per i cavalli in paddock." },
+    { "id": 5, "nome": "Tunnel Decorativo", "animale": "pesce", "prezzo": 9.90, "valutazione": 4.3, "tipologia": "arredo", "descrizione": "Grotta in resina in cui i pesci possono nascondersi ed esplorare." },
+    { "id": 6, "nome": "Corda da Tirare", "animale": "cane", "prezzo": 6.90, "valutazione": 4.6, "tipologia": "da masticare", "descrizione": "Corda in cotone intrecciato che aiuta a pulire i denti durante il gioco." },
+    { "id": 7, "nome": "Tiragraffi a Torre", "animale": "gatto", "prezzo": 44.90, "valutazione": 4.8, "tipologia": "tiragraffi", "descrizione": "Torre su tre livelli con cuccia, palline pendenti e colonne in sisal." },
+    { "id": 8, "nome": "Scala in Legno", "animale": "uccello", "prezzo": 6.90, "valutazione": 4.2, "tipologia": "da gabbia", "descrizione": "Scaletta in legno naturale per arrampicarsi e tenere allenate le zampe." },
+    { "id": 9, "nome": "Leccarda alla Mela", "animale": "cavallo", "prezzo": 12.90, "valutazione": 4.6, "tipologia": "anti-noia", "descrizione": "Blocco da leccare al gusto di mela, per le lunghe ore in box." },
+    { "id": 10, "nome": "Castello Sommerso", "animale": "pesce", "prezzo": 14.90, "valutazione": 4.1, "tipologia": "arredo", "descrizione": "Decorazione a forma di castello con passaggi interni per i pesci." }
+]
